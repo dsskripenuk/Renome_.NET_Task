@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+<city name="Kyiv">
+<temperature unit="Celsius">25</temperature>
+<humidity>65%</humidity>
+<wind>
+<speed unit="km/h">15</speed>
+<direction>NE</direction>
+</wind>
+</city>
+<city name="London">
+<temperature unit="Celsius">18</temperature>
+<humidity>72%</humidity>
+<wind>
+<speed unit="km/h">10</speed>
+<direction>SW</direction>
+</wind>
+</city>
+<city name="New York">
+<temperature unit="Fahrenheit">80</temperature>
+<humidity>55%</humidity>
+<wind>
+<speed unit="mph">8</speed>
+<direction>SE</direction>
+</wind>
+</city>
+</weather>

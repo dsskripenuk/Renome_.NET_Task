@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWeDocPMqdX8gMCYKO2h1Hq6V87R+PyO4d5YNvtVoeGz6pQ9s/R7wmEe81MpkTekQwfIETmZ3v45MhkfaUji+g==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\TestProjects\\Renome\\Converter_XML_To_JSON\\Renome_Test_Task\\Renome_Test_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsskr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

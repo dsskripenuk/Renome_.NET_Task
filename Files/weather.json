@@ -1,0 +1,55 @@
+{
+  "?xml": {
+    "@version": "1.0",
+    "@encoding": "UTF-8"
+  },
+  "weather": {
+    "city": [
+      {
+        "@name": "Kyiv",
+        "temperature": {
+          "@unit": "Celsius",
+          "#text": "25"
+        },
+        "humidity": "65%",
+        "wind": {
+          "speed": {
+            "@unit": "km/h",
+            "#text": "15"
+          },
+          "direction": "NE"
+        }
+      },
+      {
+        "@name": "London",
+        "temperature": {
+          "@unit": "Celsius",
+          "#text": "18"
+        },
+        "humidity": "72%",
+        "wind": {
+          "speed": {
+            "@unit": "km/h",
+            "#text": "10"
+          },
+          "direction": "SW"
+        }
+      },
+      {
+        "@name": "New York",
+        "temperature": {
+          "@unit": "Fahrenheit",
+          "#text": "80"
+        },
+        "humidity": "55%",
+        "wind": {
+          "speed": {
+            "@unit": "mph",
+            "#text": "8"
+          },
+          "direction": "SE"
+        }
+      }
+    ]
+  }
+}
